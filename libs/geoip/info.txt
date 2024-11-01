@@ -1,0 +1,7 @@
+geoip database was downloaded on November 18, 2019
+
+Download latest database from https://dev.maxmind.com/geoip/geoip2/geolite2/
+
+Database : GeoLite2 Country : Download
+
+PHP Client Library : https://github.com/maxmind/GeoIP2-php
